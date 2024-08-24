@@ -19,13 +19,13 @@
 		}]
 	},
 	"description": "Java Properties Syntax Highlighting",
-	"displayName": "Java Properties",
+	"displayName": "Java Properties 2",
 	"engines": {
 		"vscode": "^1.0.0"
 	},
 	"homepage": "https://github.com/Spitfire1900/vscode-java-properties/blob/master/README.md",
 	"license": "SEE LICENSE IN LICENSE",
-	"name": "java-properties",
+	"name": "java-properties-2",
 	"publisher": "Spitfire1900",
 	"repository": {
 		"type": "git",

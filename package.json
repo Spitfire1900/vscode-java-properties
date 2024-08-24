@@ -1,9 +1,9 @@
 {
 	"bugs": {
-		"url": "https://github.com/ithildir/vscode-java-properties/issues"
+		"url": "https://github.com/Spitfire1900/vscode-java-properties/issues"
 	},
 	"categories": [
-		"Languages"
+		"Programming Languages"
 	],
 	"contributes": {
 		"languages": [{
@@ -23,13 +23,13 @@
 	"engines": {
 		"vscode": "^1.0.0"
 	},
-	"homepage": "https://github.com/ithildir/vscode-java-properties/blob/master/README.md",
+	"homepage": "https://github.com/Spitfire1900/vscode-java-properties/blob/master/README.md",
 	"license": "SEE LICENSE IN LICENSE",
 	"name": "java-properties",
-	"publisher": "ithildir",
+	"publisher": "Spitfire1900",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ithildir/vscode-java-properties.git"
+		"url": "https://github.com/Spitfire1900/vscode-java-properties.git"
 	},
 	"version": "0.0.2"
 }

@@ -1,3 +1,6 @@
+# 0.0.4 - 2024-08-25
+Update Readme.md, lightweight alternative to "Language Support for Java(TM) by Red Hat"
+
 # 0.0.3 - 2024-08-25
 Fixed links in README.md, added CHANGELOG.md, and added a icon.
 

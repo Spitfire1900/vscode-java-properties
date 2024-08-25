@@ -4,3 +4,6 @@ A port of the [TextMate](https://github.com/textmate/java.tmbundle/blob/5f420457
 Java Properties (`.properties`) syntax highlighting for Visual Studio Code.
 
 Rebuild of the upstream [Java Properties](https://github.com/Ithildir/vscode-java-properties) extension by Andrea Di Giorgi.
+
+## Note
+This is a lightweight alternative to the [Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java) extension, which also provides syntax highlighting for `.properties` files based on the TextMate bundle.

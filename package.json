@@ -20,16 +20,17 @@
 	},
 	"description": "Java Properties Syntax Highlighting",
 	"displayName": "Java Properties 2",
+	"icon": "assets/icon.png",
 	"engines": {
 		"vscode": "^1.0.0"
 	},
 	"homepage": "https://github.com/Spitfire1900/vscode-java-properties/blob/master/README.md",
-	"license": "SEE LICENSE IN LICENSE",
+	"license": "MIT",
 	"name": "java-properties-2",
 	"publisher": "Spitfire1900",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Spitfire1900/vscode-java-properties.git"
 	},
-	"version": "0.0.2"
+	"version": "0.0.3"
 }

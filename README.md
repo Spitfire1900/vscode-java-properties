@@ -6,4 +6,6 @@ Java Properties (`.properties`) syntax highlighting for Visual Studio Code.
 Rebuild of the upstream [Java Properties](https://github.com/Ithildir/vscode-java-properties) extension by Andrea Di Giorgi.
 
 ## Lightweight alternative to "Language Support for Java(TM) by Red Hat"
-[Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java) also provides syntax highlighting for `.properties` files based on the TextMate bundle. `Java Properties 2` only provides syntax highlighting support for `.properties` files.
+[Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java) also provides syntax highlighting based on the TextMate bundle.
+
+Java Properties 2 only provides syntax highlighting support.
